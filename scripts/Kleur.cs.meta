@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d2a4b67fb6702204d8d3c6a056465735
+timeCreated: 1487070293
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - kubus: {fileID: 172812, guid: 165bfa65bad6e7743a7c2265e3b3a5df, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
